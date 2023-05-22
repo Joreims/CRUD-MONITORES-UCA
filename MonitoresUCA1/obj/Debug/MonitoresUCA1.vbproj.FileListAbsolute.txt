@@ -1,0 +1,25 @@
+C:\Users\Isi33\Documents\MonitoresUCA1\bin\Debug\MonitoresUCA1.exe.config
+C:\Users\Isi33\Documents\MonitoresUCA1\bin\Debug\MonitoresUCA1.exe
+C:\Users\Isi33\Documents\MonitoresUCA1\bin\Debug\MonitoresUCA1.pdb
+C:\Users\Isi33\Documents\MonitoresUCA1\bin\Debug\MonitoresUCA1.xml
+C:\Users\Isi33\Documents\MonitoresUCA1\obj\Debug\MonitoresUCA1.vbproj.AssemblyReference.cache
+C:\Users\Isi33\Documents\MonitoresUCA1\obj\Debug\MonitoresUCA1.Form1.resources
+C:\Users\Isi33\Documents\MonitoresUCA1\obj\Debug\MonitoresUCA1.Resources.resources
+C:\Users\Isi33\Documents\MonitoresUCA1\obj\Debug\MonitoresUCA1.vbproj.GenerateResource.cache
+C:\Users\Isi33\Documents\MonitoresUCA1\obj\Debug\MonitoresUCA1.vbproj.CoreCompileInputs.cache
+C:\Users\Isi33\Documents\MonitoresUCA1\obj\Debug\MonitoresUCA1.exe
+C:\Users\Isi33\Documents\MonitoresUCA1\obj\Debug\MonitoresUCA1.xml
+C:\Users\Isi33\Documents\MonitoresUCA1\obj\Debug\MonitoresUCA1.pdb
+J:\UCA\TERCER SEMESTRE\MonitoresUCA1CRUD\MonitoresUCA1\bin\Debug\MonitoresUCA1.exe.config
+J:\UCA\TERCER SEMESTRE\MonitoresUCA1CRUD\MonitoresUCA1\bin\Debug\MonitoresUCA1.exe
+J:\UCA\TERCER SEMESTRE\MonitoresUCA1CRUD\MonitoresUCA1\bin\Debug\MonitoresUCA1.pdb
+J:\UCA\TERCER SEMESTRE\MonitoresUCA1CRUD\MonitoresUCA1\bin\Debug\MonitoresUCA1.xml
+J:\UCA\TERCER SEMESTRE\MonitoresUCA1CRUD\MonitoresUCA1\obj\Debug\MonitoresUCA1.vbproj.AssemblyReference.cache
+J:\UCA\TERCER SEMESTRE\MonitoresUCA1CRUD\MonitoresUCA1\obj\Debug\MonitoresUCA1.vbproj.SuggestedBindingRedirects.cache
+J:\UCA\TERCER SEMESTRE\MonitoresUCA1CRUD\MonitoresUCA1\obj\Debug\MonitoresUCA1.Form1.resources
+J:\UCA\TERCER SEMESTRE\MonitoresUCA1CRUD\MonitoresUCA1\obj\Debug\MonitoresUCA1.Resources.resources
+J:\UCA\TERCER SEMESTRE\MonitoresUCA1CRUD\MonitoresUCA1\obj\Debug\MonitoresUCA1.vbproj.GenerateResource.cache
+J:\UCA\TERCER SEMESTRE\MonitoresUCA1CRUD\MonitoresUCA1\obj\Debug\MonitoresUCA1.vbproj.CoreCompileInputs.cache
+J:\UCA\TERCER SEMESTRE\MonitoresUCA1CRUD\MonitoresUCA1\obj\Debug\MonitoresUCA1.exe
+J:\UCA\TERCER SEMESTRE\MonitoresUCA1CRUD\MonitoresUCA1\obj\Debug\MonitoresUCA1.xml
+J:\UCA\TERCER SEMESTRE\MonitoresUCA1CRUD\MonitoresUCA1\obj\Debug\MonitoresUCA1.pdb
